@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        /*
+        Escribe un programa que solicite al usuario ingresar el número de kilómetros 
+        recorridos por su coche y el número de litros consumidos . El script debe mostrar 
+        el consumo de combustible por kilómetro.
+
+        Un problema matemático muy simple numero de litros dividido por número de kilómetros.
+
+
+        Output:
+        El usuario teclea
+
+        Num de litros: 20
+
+        Num de kilómetros: 80
+
+        Has consumido 0.25 l/km  //   20/80
+        */
+
+        function LitroXKilometro(L,K){
+            let consumoCombustible = L/K;
+            return consumoCombustible;
+        }
+
+        let litros = 20;
+        let kilometros = 80;
+        console.log("Numero de litros: ",litros,"lts.");
+        console.log("Numero de kilometros: ",kilometros,"km");
+        console.log("Has consumido ",LitroXKilometro(litros,kilometros),"l/km");
+
+    </script>
+</body>
+</html>
