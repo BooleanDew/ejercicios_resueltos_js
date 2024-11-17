@@ -18,6 +18,11 @@ En este repositorio encontrarás una colección de ejercicios resueltos en JavaS
 
 Este repositorio es un espacio para compartir y aprender con ejercicios resueltos en JavaScript.  Aquí encontrarás una variedad de problemas que te ayudarán a mejorar tus habilidades de programación en este lenguaje. 
 
+**Recursos adicionales:**
+
+* **Ejercicios Básicos 1:** [https://www.aulascript.com/evaluar/ejercicios_basicos_1.htm](https://www.aulascript.com/evaluar/ejercicios_basicos_1.htm)
+* **Ejercicios Básicos 2:** [https://www.aulascript.com/evaluar/ejercicios_basicos_1.htm](https://github.com/makeitrealcamp/ejercicios-javascript)
+
 **¿Te gusta el código? ¡Dale una estrella! 🌟**
 
 **¡Feliz aprendizaje!** 😄
