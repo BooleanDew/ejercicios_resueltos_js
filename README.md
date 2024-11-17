@@ -20,8 +20,8 @@ Este repositorio es un espacio para compartir y aprender con ejercicios resuelto
 
 **Recursos adicionales:**
 
-* **Ejercicios Básicos 1:** [https://www.aulascript.com/evaluar/ejercicios_basicos_1.htm](https://www.aulascript.com/evaluar/ejercicios_basicos_1.htm)
-* **Ejercicios Básicos 2:** [https://www.aulascript.com/evaluar/ejercicios_basicos_1.htm](https://github.com/makeitrealcamp/ejercicios-javascript)
+* **Ejercicios Básicos 1:** [aulascript](https://www.aulascript.com/evaluar/ejercicios_basicos_1.htm)
+* **Ejercicios Básicos 2:** [makeitrealcamp](https://github.com/makeitrealcamp/ejercicios-javascript)
 
 **¿Te gusta el código? ¡Dale una estrella! 🌟**
 
